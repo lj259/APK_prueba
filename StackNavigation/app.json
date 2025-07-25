@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StackNavigation",
-    "slug": "StackNavigation",
+    "slug": "Practica4",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,6 +30,7 @@
       "eas": {
         "projectId": "b63ef012-7870-4087-aef7-5092e77c20c2"
       }
-    }
+    },
+    "owner": "luis_25"
   }
 }
