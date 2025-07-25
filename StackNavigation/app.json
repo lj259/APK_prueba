@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Practica4",
-    "slug": "Practica4",
+    "name": "StackNavigation",
+    "slug": "StackNavigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,15 +20,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "package": "com.luis_25.Practica4"
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "b63ef012-7870-4087-aef7-5092e77c20c2"
+        "projectId": "b2b0f603-10da-4b68-8096-49925d260107"
       }
     }
   }
